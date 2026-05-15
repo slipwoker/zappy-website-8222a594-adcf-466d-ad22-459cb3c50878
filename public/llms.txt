@@ -1,0 +1,109 @@
+# VantaScent — Generative Engine Optimization Map
+
+> VantaScent is a premium Israeli boutique fragrance brand with a minimalist, luxury aesthetic centered around a single hero product — the PocketScent 5ml perfume atomizer. The brand identity is built on deep black and royal purple tones, evoking sophistication and exclusivity. The product is designed for on-the-go elegance: compact, bottom-fill, with a transparent window, and is unisex. The brand communicates transparency (the product does not include fragrance) and empowers users to carry their personal scent anywhere. The overall vibe is clean, editorial, and high-end — reminiscent of niche European perfume houses but adapted for the Israeli market with full RTL/Hebrew support.
+
+---
+
+## Pages
+
+### בית
+https://vantascent-8222a594.zappy5.app
+VantaScent מציגה את אטומייזר הבושם הקומפקטי המושלם לאנשים שמסרבים להתפשר על סטייל. עיצוב מינימליסטי, מילוי מלמטה, וחלון שקוף — הבחירה של מי שחי בתנועה.
+
+### פרטי המוצר
+https://vantascent-8222a594.zappy5.app/product
+אטומייזר 5ml למילוי מלמטה עם חלון שקוף ועיצוב יוניסקס אלגנטי. קומפקטי, עמיד ומדויק — כל הפרטים על המוצר שהפך לחיוני בכל תיק.
+
+### שאלות נפוצות
+https://vantascent-8222a594.zappy5.app/faq
+איך ממלאים אטומייזר מלמטה? האם המוצר כולל בושם? כל התשובות לשאלות הנפוצות על אטומייזר הבושם הקומפקטי שלנו — ברורות, כנות ומהירות.
+
+### משלוח והחזרות
+https://vantascent-8222a594.zappy5.app/shipping-returns
+משלוח מהיר לכל רחבי ישראל על בקבוקון הבושם לנסיעות שלך. גלה את תנאי המשלוח, זמני האספקה ומדיניות ההחזרות — שקיפות מלאה, ללא הפתעות.
+
+### פרטיות ותנאים
+https://vantascent-8222a594.zappy5.app/privacy-terms
+מחויבות VantaScent לשמירה על פרטיותך ואבטחת המידע שלך. קרא את תנאי השימוש ומדיניות הפרטיות של חנות אביזרי הבושם היוקרתית שלנו — שקוף ומאובטח.
+
+### צור קשר
+https://vantascent-8222a594.zappy5.app/contact
+צור קשר עם צוות VantaScent לכל שאלה על אטומייזר הבושם היוניסקס שלנו. שירות אישי, מהיר ואנושי — כי חוויית הלקוח שלך חשובה לנו לא פחות מהמוצר.
+
+### Products
+https://vantascent-8222a594.zappy5.app/products
+המוצרים שלנו - VantaScent
+
+### Cart
+https://vantascent-8222a594.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://vantascent-8222a594.zappy5.app/checkout
+תשלום
+
+### Login
+https://vantascent-8222a594.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://vantascent-8222a594.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://vantascent-8222a594.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://vantascent-8222a594.zappy5.app/product/:slug
+פרטי המוצר - VantaScent
+
+### Category
+https://vantascent-8222a594.zappy5.app/category/:slug
+מוצרים - VantaScent
+
+## Legal & Policy
+
+### Privacy Policy
+https://vantascent-8222a594.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://vantascent-8222a594.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://vantascent-8222a594.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VantaScent
+VantaScent is a premium Israeli boutique fragrance brand with a minimalist, luxury aesthetic centered around a single hero product — the PocketScent 5ml perfume atomizer. The brand identity is built on deep black and royal purple tones, evoking sophistication and exclusivity. The product is designed for on-the-go elegance: compact, bottom-fill, with a transparent window, and is unisex. The brand communicates transparency (the product does not include fragrance) and empowers users to carry their personal scent anywhere. The overall vibe is clean, editorial, and high-end — reminiscent of niche European perfume houses but adapted for the Israeli market with full RTL/Hebrew support.
+
+## Target Audience
+- קהל ישראלי, יוניסקס, אוהבי בשמים פרימיום ומינימליזם
+- אוהבי ניחוחות פרימיום
+- חובבי עיצוב מינימליסטי
+- מגלי ניחוחות יוניסקס
+
+## Industry
+E-commerce / Luxury Fragrance Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://vantascent-8222a594.zappy5.app/sitemap.xml
+- Robots: https://vantascent-8222a594.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://vantascent-8222a594.zappy5.app/llms-full.txt
+- Products (JSON): https://vantascent-8222a594.zappy5.app/products.json
+- Products (Google Merchant RSS): https://vantascent-8222a594.zappy5.app/product-feed.xml
